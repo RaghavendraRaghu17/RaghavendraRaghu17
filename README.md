@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**RaghavendraRaghu17/RaghavendraRaghu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Raghavendra H M/Raghavendra H M ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
